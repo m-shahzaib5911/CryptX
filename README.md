@@ -14,4 +14,4 @@ CryptX is a GUI tool for AES-256 based encryption and decryption of files and fo
 
 ## Installation
 ```bash
-pip install -r requirements.txt
+just download exe and run. it may trigger virus detection because of encryption logic.
