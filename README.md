@@ -52,4 +52,5 @@ CryptX supports encryption of **any file type**:
 
 ## Installation
 just download exe and run. it may trigger virus detection because of encryption logic.
-<img width="656" height="505" alt="image" src="https://github.com/user-attachments/assets/e4e8e85b-bd63-4659-8a6d-817c9c49a19f" />
+<img width="703" height="531" alt="image" src="https://github.com/user-attachments/assets/7926fc11-7f5e-46ea-a791-29c9978b1531" />
+
